@@ -1,3 +1,3 @@
 # git-guide
-This is a repos for starting with Git
+This is a repo for starting with Git
 change develop
